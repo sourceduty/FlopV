@@ -37,3 +37,7 @@ The potential of FlopV lies in its versatility as a modeling tool that straddles
 [Programming](https://github.com/sourceduty/Programming)
 <br>
 [Sourceduty Math](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math)
+<br>
+[Optimation Math](https://github.com/sourceduty/Optimation_Math)
+<br>
+[Joint Driver](https://github.com/sourceduty/Joint_Driver)
