@@ -25,3 +25,5 @@ The potential of FlopV lies in its versatility as a modeling tool that straddles
 [Math Tools](https://github.com/sourceduty/Math_Tools)
 <br>
 [Programming](https://github.com/sourceduty/Programming)
+<br>
+[Sourceduty Math](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math)
