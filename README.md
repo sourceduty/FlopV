@@ -22,6 +22,16 @@ The potential of FlopV lies in its versatility as a modeling tool that straddles
 
 #
 
+| Sourceduty Framework     | Integration with FlopV                                                                                      | Functionality Added                                                                                   |
+|--------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Truthvar**             | Parses and extends FlopV logic with truth-variable adaptation                                               | Enables adaptive, environment-responsive logic transitions                                            |
+| **Passaffect**           | Embeds flow-controlled logic via affective state propagation                                                | Introduces nuanced control over state transitions and conditional logic paths                         |
+| **Optimation Theorem**   | Optimizes FlopV expressions and control signal logic                                                        | Enhances performance, reduces redundancy, and balances logical efficiency                             |
+| **Universal Organization**| Structures FlopV within multitask or hierarchical system architectures                                     | Supports synchronization, task partitioning, and scalable logic across modules                        |
+| **Joint Driver**         | Applies dynamic weight computation to FlopV’s inputs and control expressions                                | Enables real-time prioritization and responsive control in embedded or adaptive digital systems       |
+
+#
+
 [Math Tools](https://github.com/sourceduty/Math_Tools)
 <br>
 [Programming](https://github.com/sourceduty/Programming)
