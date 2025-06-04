@@ -34,6 +34,7 @@ The potential of FlopV lies in its versatility as a modeling tool that straddles
 | **DynaSim**                | Pre-simulates FlopV behavior under varied k-scaled inputs before runtime                                          | Enables predictive toggling logic; reduces need for exhaustive real-time computation                         |
 | **CharGen**                | Uses k-Variant-transformed signal strength to affect charge-based logic triggers in FlopV                        | Introduces time-varying, energy-aware control into digital logic paths                                       |
 | **Comtag**                 | Assigns symbolic tags to k-scaled logic states in FlopV for traceability and system tagging                      | Enhances observability and traceable control flow through logic states                                       |
+| **OpLog**                  | Embeds intrinsic boolean comparison expressions directly within FlopV control structures                         | Enables expressive, hardware-efficient conditional logic with integrated type inference and logic abstraction |
 
 #
 
