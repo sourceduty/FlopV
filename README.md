@@ -35,6 +35,7 @@ The potential of FlopV lies in its versatility as a modeling tool that straddles
 | **CharGen**                | Uses k-Variant-transformed signal strength to affect charge-based logic triggers in FlopV                        | Introduces time-varying, energy-aware control into digital logic paths                                       |
 | **Comtag**                 | Assigns symbolic tags to k-scaled logic states in FlopV for traceability and system tagging                      | Enhances observability and traceable control flow through logic states                                       |
 | **OpLog**                  | Embeds intrinsic boolean comparison expressions directly within FlopV control structures                         | Enables expressive, hardware-efficient conditional logic with integrated type inference and logic abstraction |
+| **DistRed**           | Integrates a dynamic reduction engine into FlopV-controlled variables               | Allows context-sensitive decrementing of logic weights or states via distribution-driven reduction factors |
 
 #
 
